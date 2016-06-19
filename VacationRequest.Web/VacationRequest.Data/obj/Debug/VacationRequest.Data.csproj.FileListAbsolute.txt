@@ -1,0 +1,12 @@
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\VacationRequest.Data.dll
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\VacationRequest.Data.pdb
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\obj\Debug\VacationRequest.Data.csprojResolveAssemblyReference.cache
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\obj\Debug\VacationRequest.Data.dll
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\obj\Debug\VacationRequest.Data.pdb
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\VacationRequest.Data.dll.config
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\EntityFramework.dll
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\VacationRequest.Model.dll
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\VacationRequest.Model.pdb
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\EntityFramework.xml
+C:\Users\Masroor_2\Documents\Visual Studio 2015\Projects\VacationRequest.Web\VacationRequest.Data\bin\Debug\EntityFramework.SqlServer.xml
