@@ -1,0 +1,6 @@
+C:\foo\SimpleEncoder\SimpleEncoder\bin\Debug\SimpleEncoder.exe.config
+C:\foo\SimpleEncoder\SimpleEncoder\bin\Debug\SimpleEncoder.exe
+C:\foo\SimpleEncoder\SimpleEncoder\bin\Debug\SimpleEncoder.pdb
+C:\foo\SimpleEncoder\SimpleEncoder\obj\Debug\SimpleEncoder.csprojResolveAssemblyReference.cache
+C:\foo\SimpleEncoder\SimpleEncoder\obj\Debug\SimpleEncoder.exe
+C:\foo\SimpleEncoder\SimpleEncoder\obj\Debug\SimpleEncoder.pdb
